@@ -1,4 +1,3 @@
-<img width="575" height="1261" alt="UML_Gil_Jimenez_Daniel_Pepe" src="https://github.com/user-attachments/assets/137eb957-36ae-4e2a-a89f-379e76d10a61" />
 # Diagrama de Actividad UML 2.5 – Confirmación de Pedido
 - Profesor: Willman Acosta
 - Actividad: BITACORA IV
