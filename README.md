@@ -10,6 +10,7 @@ Este diagrama representa el flujo de negocio que se activa cuando un usuario pul
 ## Herramientas utilizadas  
 - Visual Studio Code  
 - DRAW.IO
+- 
 
 ## Fases realizadas
 ### Fase 1: Investigación Técnica
@@ -27,26 +28,24 @@ casos de uso.
 La clasificación de los diagramas se dividen principalmente en estructurales (estáticos) 
 y de comportamiento (dinámicos):
 
-**A. Diagramas Estructurales** (Estructura Estática)
-    Diagrama de Clases: El más utilizado. Muestra clases, atributos, métodos y sus relaciones.Diagrama de 
-        **Componentes:** Muestra la organización y dependencias entre módulos de software.Diagrama de 
-        **Despliegue:** Muestra la arquitectura física del sistema (hardware y software).Diagrama de 
-        **Objetos:** Vista de instancias específicas de clases en un momento dado.Diagrama de Paquetes:
-    Organiza los elementos del modelo en grupos.Diagrama de Estructura Compuesta: Muestra la
-    estructura interna de una clase.
+**Diagramas Estructurales** (Estructura Estática)
+Diagrama de Clases: El más utilizado. Muestra clases, atributos, métodos y sus relaciones.
+
+**Diagrama de Componentes:** Muestra la organización y dependencias entre módulos de software.
+**Diagrama de Despliegue:** Muestra la arquitectura física del sistema (hardware y software).
+**Diagrama de Objetos:** Vista de instancias específicas de clases en un momento dado.Diagrama de Paquetes:
+Organiza los elementos del modelo en grupos.Diagrama de Estructura Compuesta: Muestra la
+estructura interna de una clase.
      
-**B. Diagramas de Comportamiento** (Comportamiento Dinámico)
-    Diagrama de Casos de Uso: Captura los requisitos funcionales y la interacción con los 
-    actores.
-        Diagrama de Secuencia: Muestra la interacción entre objetos a lo largo del tiempo, 
-    enfatizando el orden.
-        Diagrama de Actividades: Modela el flujo de trabajo o procesos de 
-    negocio (diagrama de flujo).
-        Diagrama de Máquina de Estados: Muestra los estados por los 
-    que pasa un objeto durante su vida.
-        Diagrama de Comunicación: Se enfoca en las relaciones 
-    entre los objetos.
-    
+**Diagramas de Comportamiento** (Comportamiento Dinámico)
+Diagrama de Casos de Uso: Captura los requisitos funcionales y la interacción con los 
+actores.
+
+**Diagrama de Secuencia**: Muestra la interacción entre objetos a lo largo del tiempo, enfatizando el orden.
+**Diagrama de Actividades:** Modela el flujo de trabajo o procesos de negocio (diagrama de flujo).
+**Diagrama de Máquina de Estados:** Muestra los estados por los que pasa un objeto durante su vida.
+**Diagrama de Comunicación:** Se enfoca en las relaciones entre los objetos.
+
 IBM Engineering Systems Design Rhapsody es un entorno colaborativo de diseño y desarrollo para ingenieros de sistemas
 y desarrolladores de software que permite crear, probar y documentar sistemas y software en tiempo real.
 
