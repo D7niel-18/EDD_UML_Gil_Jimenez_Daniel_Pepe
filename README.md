@@ -10,7 +10,6 @@ Este diagrama representa el flujo de negocio que se activa cuando un usuario pul
 ## Herramientas utilizadas  
 - Visual Studio Code  
 - DRAW.IO
-- 
 
 ## Fases realizadas
 ### Fase 1: Investigación Técnica
@@ -33,12 +32,12 @@ Diagrama de Clases: El más utilizado. Muestra clases, atributos, métodos y sus
 
 **Diagrama de Componentes:** Muestra la organización y dependencias entre módulos de software.
 **Diagrama de Despliegue:** Muestra la arquitectura física del sistema (hardware y software).
-**Diagrama de Objetos:** Vista de instancias específicas de clases en un momento dado.Diagrama de Paquetes:
-Organiza los elementos del modelo en grupos.Diagrama de Estructura Compuesta: Muestra la
-estructura interna de una clase.
+**Diagrama de Objetos:** Vista de instancias específicas de clases en un momento dado.
+**Diagrama de Paquetes:** Organiza los elementos del modelo en grupos.
+**Diagrama de Estructura Compuesta**: Muestra la estructura interna de una clase.
      
 **Diagramas de Comportamiento** (Comportamiento Dinámico)
-Diagrama de Casos de Uso: Captura los requisitos funcionales y la interacción con los 
+**Diagrama de Casos de Uso:** Captura los requisitos funcionales y la interacción con los 
 actores.
 
 **Diagrama de Secuencia**: Muestra la interacción entre objetos a lo largo del tiempo, enfatizando el orden.
