@@ -14,3 +14,4 @@ Este diagrama representa el flujo de negocio que se activa cuando un usuario pul
 ### Fase 1: Investigación Técnica
 
 ### Fase 2: Modelado del Proceso de Compra
+dadadad
