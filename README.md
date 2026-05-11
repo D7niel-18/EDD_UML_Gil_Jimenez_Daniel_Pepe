@@ -13,5 +13,30 @@ Este diagrama representa el flujo de negocio que se activa cuando un usuario pul
 ## Fases realizadas
 ### Fase 1: Investigación Técnica
 
+IBM Engineering Systems Design Rhapsody es un entorno colaborativo de diseño y desarrollo para ingenieros de sistemas
+y desarrolladores de software que permite crear, probar y documentar sistemas y software en tiempo real.
+
+Esto les permite colaborar para analizar requisitos, optimizar decisiones de diseño y validar la funcionalidad en las primeras etapas del ciclo de desarrollo. Esta línea de productos se integra con el ciclo de vida completo del desarrollo de productos, desde la especificación y el desarrollo hasta las pruebas y la entrega.
+
+Compatibilidad con todas las ediciones para el modelado con UML, SysML, AUTOSAR, MARTE, DDS, MODAF*, UPDM*, multicore, MISRA-C, MISRA-C++.
+
+Perfiles, configuraciones, estereotipos, etiquetas y API con las que puede ampliar y configurar el producto.
+
+Un conjunto de herramientas de ingeniería de sistemas para automatizar funciones comunes de ingeniería de sistemas, incluyendo Rational Harmony para ingenieros de sistemas.
+
+Y muchas mas...
+
+- Hay distintas versiones de Rhapsody:
+
+Para ingeniería de software, puede usar las ediciones Rhapsody Developer y Rhapsody Architect para software.
+
+También tienen funciones de accesibilidad ayudando a los usuarios con discapacidad, movilidad reducida o visión limitada
+
+El diseño UML en Rhapsody permite diseñar modelos con UML.
+
 ### Fase 2: Modelado del Proceso de Compra
-dadadad
+
+
+### WEBGRAFIA
+https://www.ibm.com/docs/en/rhapsody/9.0.1?topic=diagrams-uml-activity --> IBM Documentation: "UML activity diagrams", 2021
+https://www.omg.org/spec/UML/ --> OMG (Object Management Group)
