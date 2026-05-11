@@ -67,7 +67,8 @@ También tienen funciones de accesibilidad ayudando a los usuarios con discapaci
 El diseño UML en Rhapsody permite diseñar modelos con UML.
 
 ### Fase 2: Modelado del Proceso de Compra
-<img width="575" height="1261" alt="UML_Gil_Jimenez_Daniel_Pepe" src="https://github.com/user-attachments/assets/942b2408-d798-4f5b-b603-d44328ee56bb" />
+<img width="835" height="1079" alt="UML_Gil_Jimenez_Daniel_Pepe (1)" src="https://github.com/user-attachments/assets/85d723c2-833b-4cf4-8c43-76979c586fda" />
+
 
 ### WEBGRAFIA
 https://www.ibm.com/docs/en/rhapsody/9.0.1?topic=diagrams-uml-activity --> IBM Documentation: "UML activity diagrams", 2021
